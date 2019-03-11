@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="4119b1e1db403300d87998e9db961966" sys_domain="global" table="x_322433_tsi_cfgm_autodiscovery" version="3" view="advanced">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-07 15:27:12</sys_created_on>
+            <sys_id>4919b1e1db403300d87998e9db961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_autodiscovery" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">4119b1e1db403300d87998e9db961966</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-07 15:27:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>source</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-07 15:27:12</sys_created_on>
+            <sys_id>cd19b1e1db403300d87998e9db961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_autodiscovery" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">4119b1e1db403300d87998e9db961966</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-07 15:27:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>manufacturer</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-07 15:27:12</sys_created_on>
+            <sys_id>4119b1e1db403300d87998e9db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_autodiscovery" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">4119b1e1db403300d87998e9db961966</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-07 15:27:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-07 15:27:12</sys_created_on>
+            <sys_id>c119b1e1db403300d87998e9db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_autodiscovery" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">4119b1e1db403300d87998e9db961966</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-07 15:27:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>.split</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-07 15:27:12</sys_created_on>
+            <sys_id>4519b1e1db403300d87998e9db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_autodiscovery" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">4119b1e1db403300d87998e9db961966</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-07 15:27:12</sys_updated_on>
+            <sys_user/>
+            <type>.split</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_tag</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-07 15:27:12</sys_created_on>
+            <sys_id>c519b1e1db403300d87998e9db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_autodiscovery" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">4119b1e1db403300d87998e9db961966</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-07 15:27:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>serial_number</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-07 15:27:12</sys_created_on>
+            <sys_id>4919b1e1db403300d87998e9db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_autodiscovery" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">4119b1e1db403300d87998e9db961966</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-07 15:27:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>u_boolean_2</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-07 15:27:12</sys_created_on>
+            <sys_id>c919b1e1db403300d87998e9db961967</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_autodiscovery" sys_domain="global" view="7966be310a0a0b8c00bd504090503227">4119b1e1db403300d87998e9db961966</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-07 15:27:12</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>false</header>
+            <name>x_322433_tsi_cfgm_autodiscovery</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-07 15:27:12</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>4119b1e1db403300d87998e9db961966</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_322433_tsi_cfgm_autodiscovery</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TSI_CFGM" source="x_322433_tsi_cfgm">94c12125db003300d87998e9db9619db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TSI_CFGM">94c12125db003300d87998e9db9619db</sys_scope>
+            <sys_update_name>sys_ui_section_4119b1e1db403300d87998e9db961966</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-07 15:27:12</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="Advanced" name="advanced">7966be310a0a0b8c00bd504090503227</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

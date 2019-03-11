@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_embedded_help_role">
+    <sys_embedded_help_role action="INSERT_OR_UPDATE">
+        <order>1000</order>
+        <role display_value="x_322433_tsi_cfgm.autodiscovery_user" name="x_322433_tsi_cfgm.autodiscovery_user">e195a9a5db003300d87998e9db9619d8</role>
+        <sys_class_name>sys_embedded_help_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2019-03-07 14:02:01</sys_created_on>
+        <sys_id>a995a9a5db003300d87998e9db9619da</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>e195a9a5db003300d87998e9db9619d8</sys_name>
+        <sys_package display_value="TSI_CFGM" source="x_322433_tsi_cfgm">94c12125db003300d87998e9db9619db</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="TSI_CFGM">94c12125db003300d87998e9db9619db</sys_scope>
+        <sys_update_name>sys_embedded_help_role_a995a9a5db003300d87998e9db9619da</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2019-03-07 14:02:01</sys_updated_on>
+    </sys_embedded_help_role>
+</record_update>
