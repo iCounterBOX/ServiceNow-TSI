@@ -1,0 +1,183 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="" section_id="fe0e8685db103300d87998e9db9619ce" sys_domain="global" table="x_322433_tsi_cfgm_infinity" version="3" view="">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>device_number</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-18 14:10:02</sys_created_on>
+            <sys_id>42e0dec5db103300d87998e9db96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_infinity" sys_domain="global" view="Default view">fe0e8685db103300d87998e9db9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-18 14:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>name</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-18 14:10:02</sys_created_on>
+            <sys_id>c2e0dec5db103300d87998e9db96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_infinity" sys_domain="global" view="Default view">fe0e8685db103300d87998e9db9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-18 14:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>asset_tag</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-18 14:10:02</sys_created_on>
+            <sys_id>46e0dec5db103300d87998e9db96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_infinity" sys_domain="global" view="Default view">fe0e8685db103300d87998e9db9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-18 14:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>device_version</element>
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-18 14:10:02</sys_created_on>
+            <sys_id>c6e0dec5db103300d87998e9db96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_infinity" sys_domain="global" view="Default view">fe0e8685db103300d87998e9db9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-18 14:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>support_group.name</element>
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-18 14:10:02</sys_created_on>
+            <sys_id>4ae0dec5db103300d87998e9db96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_infinity" sys_domain="global" view="Default view">fe0e8685db103300d87998e9db9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-18 14:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>install_date</element>
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-18 14:10:02</sys_created_on>
+            <sys_id>cae0dec5db103300d87998e9db96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_infinity" sys_domain="global" view="Default view">fe0e8685db103300d87998e9db9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-18 14:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>install_status</element>
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-18 14:10:02</sys_created_on>
+            <sys_id>4ee0dec5db103300d87998e9db96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_infinity" sys_domain="global" view="Default view">fe0e8685db103300d87998e9db9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-18 14:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>owned_by.email</element>
+            <position>7</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-18 14:10:02</sys_created_on>
+            <sys_id>cee0dec5db103300d87998e9db96190b</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_infinity" sys_domain="global" view="Default view">fe0e8685db103300d87998e9db9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-18 14:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>correlation_id</element>
+            <position>8</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-18 14:10:02</sys_created_on>
+            <sys_id>42e0dec5db103300d87998e9db96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_infinity" sys_domain="global" view="Default view">fe0e8685db103300d87998e9db9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-18 14:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>support_group.email</element>
+            <position>9</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-18 14:10:02</sys_created_on>
+            <sys_id>c2e0dec5db103300d87998e9db96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_infinity" sys_domain="global" view="Default view">fe0e8685db103300d87998e9db9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-18 14:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>device_notes</element>
+            <position>10</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-18 14:10:02</sys_created_on>
+            <sys_id>46e0dec5db103300d87998e9db96190c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="NULL" display_value="" name="x_322433_tsi_cfgm_infinity" sys_domain="global" view="Default view">fe0e8685db103300d87998e9db9619ce</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-18 14:10:02</sys_updated_on>
+            <sys_user/>
+            <type/>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption/>
+            <header>true</header>
+            <name>x_322433_tsi_cfgm_infinity</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-18 13:57:32</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>fe0e8685db103300d87998e9db9619ce</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>x_322433_tsi_cfgm_infinity</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TSI_CFGM" source="x_322433_tsi_cfgm">94c12125db003300d87998e9db9619db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TSI_CFGM">94c12125db003300d87998e9db9619db</sys_scope>
+            <sys_update_name>sys_ui_section_fe0e8685db103300d87998e9db9619ce</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-18 13:57:32</sys_updated_on>
+            <sys_user/>
+            <title>true</title>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>
