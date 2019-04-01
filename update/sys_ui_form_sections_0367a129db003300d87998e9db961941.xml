@@ -28,6 +28,20 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-03-07 14:10:03</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-25 15:12:41</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>0462665bdbd03300d87998e9db96196c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="x_322433_tsi_cfgm_autodiscovery" name="x_322433_tsi_cfgm_autodiscovery" sys_domain="global" view="Default view">0367a129db003300d87998e9db961941</sys_ui_form>
+            <sys_ui_section caption="custom data" display_value="custom data" name="x_322433_tsi_cfgm_autodiscovery" sys_domain="global" view="Default view">8462665bdbd03300d87998e9db961969</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-25 15:12:41</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>x_322433_tsi_cfgm_autodiscovery</name>
             <roles/>

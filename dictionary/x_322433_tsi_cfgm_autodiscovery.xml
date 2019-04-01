@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
-    <element extends="cmdb_ci_computer" label="Autodiscovery" max_length="40" name="x_322433_tsi_cfgm_autodiscovery" type="collection">
+    <element extends="cmdb_ci_computer" label="Autodiscovery" max_length="40" name="x_322433_tsi_cfgm_autodiscovery" sizeclass="1" type="collection">
         <element display="true" label="Type" max_length="50" name="type" type="string_full_utf8"/>
         <element label="lCpuSpeedMhz" max_length="40" name="lcpuspeedmhz" type="longint"/>
         <element default="none" label="CpuType" max_length="80" name="cputype" type="glide_list"/>

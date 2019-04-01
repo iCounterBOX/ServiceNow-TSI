@@ -1,0 +1,169 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_related sys_domain="global" table="x_322433_tsi_cfgm_autodiscovery" version="2" view="">
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Autodiscovery - Default view" name="x_322433_tsi_cfgm_autodiscovery" related_list="NULL" sys_domain="global" view="Default view">acf7f255db903300d87998e9db96192c</list_id>
+            <order_by/>
+            <position>0</position>
+            <related_list>cmdb_ci_network_adapter.cmdb_ci</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 11:39:04</sys_created_on>
+            <sys_id>24f7f255db903300d87998e9db96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 11:39:04</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Autodiscovery - Default view" name="x_322433_tsi_cfgm_autodiscovery" related_list="NULL" sys_domain="global" view="Default view">acf7f255db903300d87998e9db96192c</list_id>
+            <order_by/>
+            <position>1</position>
+            <related_list>cmdb_ci_storage_device.computer</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 11:39:04</sys_created_on>
+            <sys_id>28f7f255db903300d87998e9db96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 11:39:04</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Autodiscovery - Default view" name="x_322433_tsi_cfgm_autodiscovery" related_list="NULL" sys_domain="global" view="Default view">acf7f255db903300d87998e9db96192c</list_id>
+            <order_by/>
+            <position>2</position>
+            <related_list>cmdb_ci_file_system.computer</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 11:39:04</sys_created_on>
+            <sys_id>2cf7f255db903300d87998e9db96192d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 11:39:04</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Autodiscovery - Default view" name="x_322433_tsi_cfgm_autodiscovery" related_list="NULL" sys_domain="global" view="Default view">acf7f255db903300d87998e9db96192c</list_id>
+            <order_by/>
+            <position>3</position>
+            <related_list>cmdb_software_instance.installed_on</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 11:39:04</sys_created_on>
+            <sys_id>20f7f255db903300d87998e9db96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 11:39:04</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Autodiscovery - Default view" name="x_322433_tsi_cfgm_autodiscovery" related_list="NULL" sys_domain="global" view="Default view">acf7f255db903300d87998e9db96192c</list_id>
+            <order_by/>
+            <position>4</position>
+            <related_list>cmdb_running_process.computer</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 11:39:04</sys_created_on>
+            <sys_id>24f7f255db903300d87998e9db96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 11:39:04</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Autodiscovery - Default view" name="x_322433_tsi_cfgm_autodiscovery" related_list="NULL" sys_domain="global" view="Default view">acf7f255db903300d87998e9db96192c</list_id>
+            <order_by/>
+            <position>5</position>
+            <related_list>cmdb_serial_number.cmdb_ci</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 11:39:04</sys_created_on>
+            <sys_id>28f7f255db903300d87998e9db96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 11:39:04</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Autodiscovery - Default view" name="x_322433_tsi_cfgm_autodiscovery" related_list="NULL" sys_domain="global" view="Default view">acf7f255db903300d87998e9db96192c</list_id>
+            <order_by/>
+            <position>6</position>
+            <related_list>REL:80a164460ab30152004422b3fb69ca1e</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 11:39:04</sys_created_on>
+            <sys_id>2cf7f255db903300d87998e9db96192e</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 11:39:04</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Autodiscovery - Default view" name="x_322433_tsi_cfgm_autodiscovery" related_list="NULL" sys_domain="global" view="Default view">acf7f255db903300d87998e9db96192c</list_id>
+            <order_by/>
+            <position>7</position>
+            <related_list>REL:8203b8b30ab301520035533a59ed530f</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 11:39:04</sys_created_on>
+            <sys_id>20f7f255db903300d87998e9db96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 11:39:04</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Autodiscovery - Default view" name="x_322433_tsi_cfgm_autodiscovery" related_list="NULL" sys_domain="global" view="Default view">acf7f255db903300d87998e9db96192c</list_id>
+            <order_by/>
+            <position>8</position>
+            <related_list>cmdb_ci_memory_module.cmdb_ci</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 11:39:04</sys_created_on>
+            <sys_id>24f7f255db903300d87998e9db96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 11:39:04</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list_entry action="INSERT_OR_UPDATE">
+            <filter/>
+            <list_id display_value="Autodiscovery - Default view" name="x_322433_tsi_cfgm_autodiscovery" related_list="NULL" sys_domain="global" view="Default view">acf7f255db903300d87998e9db96192c</list_id>
+            <order_by/>
+            <position>9</position>
+            <related_list>cmdb_tcp.computer</related_list>
+            <sys_class_name>sys_ui_related_list_entry</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 11:39:04</sys_created_on>
+            <sys_id>28f7f255db903300d87998e9db96192f</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 11:39:04</sys_updated_on>
+        </sys_ui_related_list_entry>
+        <sys_ui_related_list action="INSERT_OR_UPDATE">
+            <calculated_name>Autodiscovery - Default view</calculated_name>
+            <filter/>
+            <name>x_322433_tsi_cfgm_autodiscovery</name>
+            <order_by/>
+            <position/>
+            <related_list/>
+            <sys_class_name>sys_ui_related_list</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-03-19 11:39:04</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>acf7f255db903300d87998e9db96192c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Autodiscovery - Default view</sys_name>
+            <sys_package display_value="TSI_CFGM" source="x_322433_tsi_cfgm">94c12125db003300d87998e9db9619db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TSI_CFGM">94c12125db003300d87998e9db9619db</sys_scope>
+            <sys_update_name>sys_ui_related_x_322433_tsi_cfgm_autodiscovery_null</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-03-19 11:39:04</sys_updated_on>
+            <sys_user/>
+            <view display_value="Default view" name="NULL">Default view</view>
+            <view_name/>
+        </sys_ui_related_list>
+    </sys_ui_related>
+</record_update>
