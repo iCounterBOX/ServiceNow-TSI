@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_documentation element="u_cd_speed" label="CD Speed" language="en" table="u_imp_tmpl_x_322433_tsi_cfgm_autodiscovery">
+        <sys_documentation action="INSERT_OR_UPDATE">
+            <element>u_cd_speed</element>
+            <help/>
+            <hint/>
+            <label>CD Speed</label>
+            <language>en</language>
+            <name>u_imp_tmpl_x_322433_tsi_cfgm_autodiscovery</name>
+            <plural>CD Speed</plural>
+            <sys_class_name>sys_documentation</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-03 12:52:52</sys_created_on>
+            <sys_id>77a8d896db603300d87998e9db961986</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>CD Speed</sys_name>
+            <sys_package display_value="TSI_CFGM" source="x_322433_tsi_cfgm">94c12125db003300d87998e9db9619db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TSI_CFGM">94c12125db003300d87998e9db9619db</sys_scope>
+            <sys_update_name>sys_documentation_u_imp_tmpl_x_322433_tsi_cfgm_autodiscovery_u_cd_speed_en</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-03 12:52:52</sys_updated_on>
+            <url/>
+            <url_target/>
+        </sys_documentation>
+    </sys_documentation>
+</record_update>

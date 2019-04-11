@@ -14,6 +14,90 @@
             <sys_updated_by>admin</sys_updated_by>
             <sys_updated_on>2019-03-18 15:04:49</sys_updated_on>
         </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 11:57:18</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>94854304dbb03300d87998e9db96191c</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_server" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">a47d1205db503300d87998e9db961991</sys_ui_form>
+            <sys_ui_section caption="Status" display_value="Status" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">98854304dbb03300d87998e9db96191a</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 11:57:18</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 12:00:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>e0564b04dbb03300d87998e9db961970</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_server" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">a47d1205db503300d87998e9db961991</sys_ui_form>
+            <sys_ui_section caption="organization" display_value="organization" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">6856c704dbb03300d87998e9db9619f7</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 12:00:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>3</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 12:00:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>ac564b04dbb03300d87998e9db961973</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_server" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">a47d1205db503300d87998e9db961991</sys_ui_form>
+            <sys_ui_section caption="Usage" display_value="Usage" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">2056c704dbb03300d87998e9db9619f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 12:00:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>4</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 12:00:52</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>6c564b04dbb03300d87998e9db961977</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_server" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">a47d1205db503300d87998e9db961991</sys_ui_form>
+            <sys_ui_section caption="Autodiscovery" display_value="Autodiscovery" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">2856c704dbb03300d87998e9db9619f8</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 12:00:52</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>5</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 13:14:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9717538cdbb03300d87998e9db9619fd</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_server" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">a47d1205db503300d87998e9db961991</sys_ui_form>
+            <sys_ui_section caption="Relation" display_value="Relation" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">9b17538cdbb03300d87998e9db9619fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 13:14:15</sys_updated_on>
+        </sys_ui_form_section>
+        <sys_ui_form_section action="INSERT_OR_UPDATE">
+            <position>6</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 13:16:47</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>d4b7dbccdbb03300d87998e9db961976</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_overrides/>
+            <sys_ui_form display_value="cmdb_ci_server" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">a47d1205db503300d87998e9db961991</sys_ui_form>
+            <sys_ui_section caption="Related CI's" display_value="Related CI's" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">1cb7dbccdbb03300d87998e9db961973</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 13:16:47</sys_updated_on>
+        </sys_ui_form_section>
         <sys_ui_form action="INSERT_OR_UPDATE">
             <name>cmdb_ci_server</name>
             <roles/>

@@ -1,29 +1,29 @@
 <?xml version="1.0" encoding="UTF-8"?><database>
     <element extends="cmdb_ci_computer" label="Autodiscovery" max_length="40" name="x_322433_tsi_cfgm_autodiscovery" sizeclass="1" type="collection">
-        <element display="true" label="Type" max_length="50" name="type" type="string_full_utf8"/>
-        <element label="lCpuSpeedMhz" max_length="40" name="lcpuspeedmhz" type="longint"/>
         <element default="none" label="CpuType" max_length="80" name="cputype" type="glide_list"/>
-        <element label="dtOSInst" max_length="40" name="dtosinst" type="glide_date_time"/>
         <element label="CustomData1" max_length="130" name="customdata1" type="string_full_utf8"/>
-        <element label="OSLanguage" max_length="50" name="oslanguage" type="string_full_utf8"/>
-        <element label="dtTimeStamp" max_length="40" name="dttimestamp" type="glide_date_time"/>
-        <element label="OSKernelMode" max_length="50" name="oskernelmode" type="string_full_utf8"/>
-        <element label="dtScanDate" max_length="40" name="dtscandate" type="glide_date_time"/>
         <element label="CustomData2" max_length="130" name="customdata2" type="string_full_utf8"/>
-        <element label="OSArchitecture" max_length="50" name="osarchitecture" type="string_full_utf8"/>
-        <element label="lMemoryMB" max_length="40" name="lmemorymb" type="longint"/>
-        <element label="reconciliation done" max_length="40" name="u_boolean_2" type="boolean"/>
-        <element label="SerialNo" max_length="130" name="serialno" type="string_full_utf8"/>
-        <element label="CustomData4" max_length="130" name="customdata4" type="string_full_utf8"/>
-        <element label="Source" max_length="50" name="source" type="string_full_utf8"/>
-        <element label="HostId" max_length="50" name="hostid" type="string_full_utf8"/>
-        <element label="iTotalNumberOfCores" max_length="40" name="itotalnumberofcores" type="longint"/>
-        <element label="dtLastIPL" max_length="40" name="dtlastipl" type="glide_date_time"/>
-        <element label="Model" max_length="255" name="model" type="string_full_utf8"/>
-        <element label="lCPUCount" max_length="20" name="lcpucount" type="decimal"/>
-        <element label="dtLastModif" max_length="40" name="dtlastmodif" type="glide_date_time"/>
-        <element label="iNumberCoresPerCPU" max_length="40" name="inumbercorespercpu" type="longint"/>
         <element label="CustomData3" max_length="130" name="customdata3" type="string_full_utf8"/>
+        <element label="CustomData4" max_length="130" name="customdata4" type="string_full_utf8"/>
+        <element label="dtLastIPL" max_length="40" name="dtlastipl" type="glide_date_time"/>
+        <element label="dtLastModif" max_length="40" name="dtlastmodif" type="glide_date_time"/>
+        <element label="dtOSInst" max_length="40" name="dtosinst" type="glide_date_time"/>
+        <element label="dtScanDate" max_length="40" name="dtscandate" type="glide_date_time"/>
+        <element label="dtTimeStamp" max_length="40" name="dttimestamp" type="glide_date_time"/>
+        <element label="HostId" max_length="50" name="hostid" type="string_full_utf8"/>
+        <element label="iNumberCoresPerCPU" max_length="40" name="inumbercorespercpu" type="longint"/>
+        <element label="iTotalNumberOfCores" max_length="40" name="itotalnumberofcores" type="longint"/>
+        <element label="lCPUCount" max_length="20" name="lcpucount" type="decimal"/>
+        <element label="lCpuSpeedMhz" max_length="40" name="lcpuspeedmhz" type="longint"/>
+        <element label="lMemoryMB" max_length="40" name="lmemorymb" type="longint"/>
+        <element label="Model" max_length="255" name="model" type="string_full_utf8"/>
+        <element label="OSArchitecture" max_length="50" name="osarchitecture" type="string_full_utf8"/>
+        <element label="OSKernelMode" max_length="50" name="oskernelmode" type="string_full_utf8"/>
+        <element label="OSLanguage" max_length="50" name="oslanguage" type="string_full_utf8"/>
         <element label="OSSubVersion" max_length="50" name="ossubversion" type="string_full_utf8"/>
+        <element label="SerialNo" max_length="130" name="serialno" type="string_full_utf8"/>
+        <element label="Source" max_length="50" name="source" type="string_full_utf8"/>
+        <element display="true" label="Type" max_length="50" name="type" type="string_full_utf8"/>
+        <element label="reconciliation done" max_length="40" name="u_boolean_2" type="boolean"/>
     </element>
 </database>

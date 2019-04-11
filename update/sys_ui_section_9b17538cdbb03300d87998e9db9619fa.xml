@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update>
+    <sys_ui_section caption="Relation" section_id="9b17538cdbb03300d87998e9db9619fa" sys_domain="global" table="cmdb_ci_server" version="3" view="TSIconfiguration">
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>cmdb_scheduled_diff.xml</element>
+            <position>0</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 13:50:38</sys_created_on>
+            <sys_id>907f1b04dbf03300d87998e9db96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter display_value="CMDB Scheduled Changes">947b47cfa9fe3dba0092d0a85bdef6c3</sys_ui_formatter>
+            <sys_ui_section caption="Relation" display_value="Relation" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">9b17538cdbb03300d87998e9db9619fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 13:50:38</sys_updated_on>
+            <sys_user/>
+            <type>formatter</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.cmdb_ci_server.task.cmdb_ci</element>
+            <position>1</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 13:50:38</sys_created_on>
+            <sys_id>547f1b04dbf03300d87998e9db96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Relation" display_value="Relation" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">9b17538cdbb03300d87998e9db9619fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 13:50:38</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_element action="INSERT_OR_UPDATE">
+            <element>12M.cmdb_ci_server.incident.cmdb_ci</element>
+            <position>2</position>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 13:50:38</sys_created_on>
+            <sys_id>d47f1b04dbf03300d87998e9db96196d</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_ui_formatter/>
+            <sys_ui_section caption="Relation" display_value="Relation" name="cmdb_ci_server" sys_domain="global" view="8b199ecddb103300d87998e9db961965">9b17538cdbb03300d87998e9db9619fa</sys_ui_section>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 13:50:38</sys_updated_on>
+            <sys_user/>
+            <type>list</type>
+        </sys_ui_element>
+        <sys_ui_section action="INSERT_OR_UPDATE">
+            <caption>Relation</caption>
+            <header>false</header>
+            <name>cmdb_ci_server</name>
+            <roles/>
+            <sys_class_name>sys_ui_section</sys_class_name>
+            <sys_created_by>admin</sys_created_by>
+            <sys_created_on>2019-04-09 13:14:15</sys_created_on>
+            <sys_domain>global</sys_domain>
+            <sys_domain_path>/</sys_domain_path>
+            <sys_id>9b17538cdbb03300d87998e9db9619fa</sys_id>
+            <sys_mod_count>0</sys_mod_count>
+            <sys_name>Relation</sys_name>
+            <sys_overrides/>
+            <sys_package display_value="TSI_CFGM" source="x_322433_tsi_cfgm">94c12125db003300d87998e9db9619db</sys_package>
+            <sys_policy/>
+            <sys_scope display_value="TSI_CFGM">94c12125db003300d87998e9db9619db</sys_scope>
+            <sys_update_name>sys_ui_section_9b17538cdbb03300d87998e9db9619fa</sys_update_name>
+            <sys_updated_by>admin</sys_updated_by>
+            <sys_updated_on>2019-04-09 13:14:15</sys_updated_on>
+            <sys_user/>
+            <title>false</title>
+            <view display_value="TSIconfiguration" name="TSIconfiguration">8b199ecddb103300d87998e9db961965</view>
+            <view_name/>
+        </sys_ui_section>
+    </sys_ui_section>
+</record_update>

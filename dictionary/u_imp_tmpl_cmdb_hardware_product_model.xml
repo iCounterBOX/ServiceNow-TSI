@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element extends="sys_import_set_row" label="Imp Tmpl CMDB Hardware Product Model" max_length="40" name="u_imp_tmpl_cmdb_hardware_product_model" type="collection">
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Acquisition method" label="Acquisition method" max_length="40" name="u_acquisition_method" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Asset tracking strategy" label="Asset tracking strategy" max_length="40" name="u_asset_tracking_strategy" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Barcode" label="Barcode" max_length="40" name="u_barcode" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Bundle" label="Bundle" max_length="40" name="u_bundle" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Certified" label="Certified" max_length="40" name="u_certified" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=CMDB CI class" label="CMDB CI class" max_length="40" name="u_cmdb_ci_class" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Comments" label="Comments" max_length="4000" name="u_comments" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Cost" label="Cost" max_length="15" name="u_cost" type="string"/>
+        <element attributes="import_attribute_name=Depreciation" label="Depreciation" max_length="32" name="u_depreciation" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="8000" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Expenditure type" label="Expenditure type" max_length="40" name="u_expenditure_type" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Flow Rate (cfm)" label="Flow Rate (cfm)" max_length="40" name="u_flow_rate__cfm_" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Full name" label="Full name" max_length="100" name="u_full_name" type="string"/>
+        <element attributes="import_attribute_name=Height (U)" label="Height (U)" max_length="38" name="u_height__u_" type="decimal"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Manufacturer" label="Manufacturer" max_length="32" name="u_manufacturer" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Model number" label="Model number" max_length="80" name="u_model_number" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Name" label="Name" max_length="80" name="u_name" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Owner" label="Owner" max_length="32" name="u_owner" type="string"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Power (watts)" label="Power (watts)" max_length="40" name="u_power__watts_" type="string"/>
+        <element attributes="import_attribute_name=Salvage value" label="Salvage value" max_length="20" name="u_salvage_value" type="decimal"/>
+        <element attributes="import_attribute_name=Short description" label="Short description" max_length="100" name="u_short_description" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=SLA" label="SLA" max_length="30" name="u_sla" type="string"/>
+        <element attributes="import_attribute_name=Sound Power (bels)" label="Sound Power (bels)" max_length="40" name="u_sound_power__bels_" type="integer"/>
+        <element attributes="import_attribute_name=Status" label="Status" max_length="40" name="u_status" type="integer"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Type" label="Type" max_length="40" name="u_type" type="glide_date_time"/>
+        <element attributes="edge_encryption_enabled=true,import_attribute_name=Weight (lbs)" label="Weight (lbs)" max_length="40" name="u_weight__lbs_" type="string"/>
+    </element>
+</database>
