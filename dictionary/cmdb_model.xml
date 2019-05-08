@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?><database>
+    <element label="Product Model" max_length="40" name="cmdb_model" type="collection">
+        <element choice="2" display="true" label="dSupportWithdrawnFrom" max_length="40" name="x_322433_tsi_cfgm_dsupportwithdrawnfrom" type="glide_date">
+            <choice/>
+        </element>
+    </element>
+</database>

@@ -10,6 +10,7 @@
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Cost" label="Cost" max_length="15" name="u_cost" type="string"/>
         <element attributes="import_attribute_name=Depreciation" label="Depreciation" max_length="32" name="u_depreciation" type="integer"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Description" label="Description" max_length="8000" name="u_description" type="string"/>
+        <element attributes="edge_encryption_enabled=true" label="dSupportWithdrawnFrom" max_length="40" name="u_dsupportwithdrawnfrom" type="glide_date"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Expenditure type" label="Expenditure type" max_length="40" name="u_expenditure_type" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Flow Rate (cfm)" label="Flow Rate (cfm)" max_length="40" name="u_flow_rate__cfm_" type="string"/>
         <element attributes="edge_encryption_enabled=true,import_attribute_name=Full name" label="Full name" max_length="100" name="u_full_name" type="string"/>
